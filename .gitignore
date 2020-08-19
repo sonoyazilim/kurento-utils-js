@@ -2,6 +2,8 @@
 .project
 .settings/
 .vscode/
+.idea
+*.iml
 *~
 bower.json
 junitResult.xml
